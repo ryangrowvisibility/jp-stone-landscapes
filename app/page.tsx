@@ -369,7 +369,7 @@ export default function Home() {
           <span className="flex items-center gap-5">
             <span>15+ years of stone work</span>
             <span className="flex items-center gap-2">
-              <ClockIcon className="h-4 w-4" /> Weekdays, closes 5 p.m.
+              <ClockIcon className="h-4 w-4" /> Closes 5 p.m.
             </span>
           </span>
         </div>
@@ -710,7 +710,7 @@ export default function Home() {
             <div>
               <h2 className="text-[clamp(2rem,4vw,3.2rem)] font-bold">Ready to fix it or build it? Call Jay.</h2>
               <p className="mt-3 max-w-[52ch] text-lg text-white/85">
-                {PHONE_DISPLAY} · Weekdays, closes 5 p.m. Text a photo of the job for a faster answer.
+                {PHONE_DISPLAY} · Closes 5 p.m. Text a photo of the job for a faster answer.
               </p>
             </div>
             <div className="flex flex-col gap-3 sm:flex-row">
